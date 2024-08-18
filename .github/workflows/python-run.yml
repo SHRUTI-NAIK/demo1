@@ -18,5 +18,5 @@ jobs:
         python -m pip install --upgrade pip
         pip install build
     - name: read file
-      run: python -m build
+      run: python
  
